@@ -1,2 +1,1 @@
 # class-note
-aaaa
