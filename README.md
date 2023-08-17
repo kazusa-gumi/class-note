@@ -27,6 +27,29 @@ solve - permanent fix<br />
 Problem review & Closure<br />
 Change management<br />
 documentation<br />
+<br />
+Response time(目標対応時間） VS Resolution Target(解決策)<br />
+<br />
+priority Code<br />
+1. Critical(Highest)<br />
+2. High <br />
+3. Medium<br />
+4. (Normal)<br />
+5. Low<br />
+
+How do you prioritize?<br />
+What is the problem?<br />
+How many users are affected?<br />
+What services are affected?<br />
+
+<h4>Service Level Agreement(サービス水準合意・SLA)</h4><br />
+Help Desk - to help customers, that's it.<br />
+Escalation<br />
+
+
+
+
+
 
 
 
